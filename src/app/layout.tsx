@@ -37,6 +37,14 @@ function Navbar() {
             <Link href="/find-us" className="text-gray-600 hover:text-gray-900 transition-colors">
               Find Us
             </Link>
+            <a 
+              href="https://discord.gg/h4WE4DyTqa" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-flex items-center px-4 py-2 rounded-md bg-[#5865F2] text-white hover:bg-[#4752C4] transition-colors"
+            >
+              Join Discord
+            </a>
           </div>
         </div>
       </div>
