@@ -19,7 +19,7 @@ export default function FindUsPage() {
                 Join our Discord community to connect with other makers, share your progress, and get feedback.
               </p>
               <a 
-                href="#" 
+                href="https://discord.gg/h4WE4DyTqa" 
                 className="inline-flex items-center gap-2 px-6 py-3 bg-purple-600 text-white rounded-lg font-semibold hover:bg-purple-700 transition-colors duration-300"
                 target="_blank"
                 rel="noopener noreferrer"
